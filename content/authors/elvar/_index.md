@@ -1,37 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Elvar Orn Jonsson
 
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
+# Full Name (for SEO)
+first_name: Elvar
+last_name: Orn Jonsson
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant Professor, Science Institute
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Iceland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - QM/MM method development
+  - Polarizable Force Fields
+  - SIC
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Physics
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
@@ -67,13 +63,15 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Principal Investigator
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

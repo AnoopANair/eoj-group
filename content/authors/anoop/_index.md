@@ -1,13 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anoop Ajaya Kumar Nair
 
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+# Full name (for SEO)
+first_name: Anoop
+last_name: Ajaya Kumar Nair
+
+# Username (this should match the folder name)
+authors:
+  - Anoop
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
@@ -63,15 +67,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
+I’m a third-year Ph.D student at the University of Iceland. I have seven years of research, data analysis and programming expertise in the topics of software development, FOSS, machine learning, optimization and statistics. I’m enthusiastic to work on both research and non-research oriented problems and find efficient answers to them. I can also communicate research effectively, as proven by my several research articles.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
