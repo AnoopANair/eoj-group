@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/AnoopANair/eoj-group/blob/main/LICENSE.md"
 description = "The website for EOJ research group"
 homepage = "https://github.com/AnoopANair/eoj-group"
-demosite = "https://eojgroup.netlify.app/home/"
+demosite = "https://eojgroup.netlify.app"
 tags = ["academic",
         "university",
         "research",
