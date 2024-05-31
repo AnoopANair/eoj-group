@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Elvar Orn Jonsson
+title: Elvar Örn Jonsson
 
 # Full Name (for SEO)
 first_name: Elvar
-last_name: Orn Jonsson
+last_name: Örn Jonsson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant Professor, Science Institute
+role: Research Associate Professor, Science Institute
 
 # Organizations/Affiliations
 organizations:
@@ -18,23 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include method development for atomic scale simulations
 
 interests:
-  - QM/MM method development
-  - Polarizable Force Fields
-  - SIC
+  - Quantum mechanics / molecular mechanics
+  - Polarizable force fields
+  - Self-interaction correction
+  - Advanced simulation methods
 
 education:
   courses:
     - course: PhD in Physics
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Technical University of Denmark
+      year: 2015
+    - course: MSc in Chemistry
+      institution: Technical University of Denmark
+      year: 2011
+    - course: BSc in Chemistry
+      institution: University of Iceland
       year: 2008
 
 # Social/Academic Networking
@@ -44,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:elvarorn@hi.is'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8LuxRggAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://gitlab.com/theochem-ui
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +73,5 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elvar Örn Jónsson is a research associate professor at the department of chemistry at the University of Iceland. His research interests include developing advanced simulation methods for atomic scale systems and include hybrid simulation techniques, self-interaction correction to density functional theory and classical force fields based on physical principle. He leads the EOJ research group which is part of the theoretical chemistry group TheoChem at UI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
