@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: EOJ research group
+title:
 date: 2025-10-24
 type: landing
 
@@ -13,6 +13,7 @@ sections:
       image:
         filename: welcome.jpg
       text: |
+        <br>
         
         The **EOJ Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
