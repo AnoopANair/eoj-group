@@ -3,7 +3,7 @@ title: 'H-MPol: Higher-rank Moments and POLarizabilities'
 date: 2023-06-01
 ---
 
- Anoop got awarded the doctoral grant for his proposal titled "Computer simulations of the interface between aqueous solution and solid surfaces".
+ A code to calculate higher-rank polarizability (up to the quadrupole-quadrupole) and moment (upto the hexadecapole) tensors.
 
 <!--more-->
 **Abstract**
@@ -23,10 +23,7 @@ Moment and polarizability tensors serve as compressed representations of the ele
 
 </div>
 
-Concept: The moments are calculated by integrating the electron density and the corresponding magnitude of the distance vector. The polarizabilities require the application of perturbations in terms of fields and field-gradients. This is done by the use of MM (molecular mechanics) point charges to perturb the molecule confined in the QM region. 
 
 
 
-
-
-[HMPOL](https://gitlab.com/AnoopANair/the-hmpol-project) namespace on gitlab.
+[HMPOL](https://gitlab.com/AnoopANair/the-hmpol-project) link to the code.
