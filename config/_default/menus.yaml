@@ -9,10 +9,10 @@ main:
     weight: 20
   - name: Projects
     url: projects
-    weight: 20
+    weight: 15
   - name: Funding
     url: funding
-    weight: 20
+    weight: 55
   - name: People
     url: people
     weight: 30
@@ -22,3 +22,4 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  
