@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anoop Ajaya Kumar Nair | EOJ Research Group</title>
+    <link>http://localhost:1313/author/anoop-ajaya-kumar-nair/</link>
+      <atom:link href="http://localhost:1313/author/anoop-ajaya-kumar-nair/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anoop Ajaya Kumar Nair</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/anoop-ajaya-kumar-nair/avatar_hu029ebb4bf5034abb4812c5eb55e9bc03_101086_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anoop Ajaya Kumar Nair</title>
+      <link>http://localhost:1313/author/anoop-ajaya-kumar-nair/</link>
+    </image>
+    
+    <item>
+      <title>Anoop Ajaya Kumar Nair</title>
+      <link>http://localhost:1313/author/anoop-ajaya-kumar-nair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/anoop-ajaya-kumar-nair/</guid>
+      <description>&lt;p&gt;Anoop is a third-year Ph.D student at the University of Iceland. I have seven years of research, data analysis and programming expertise in the topics of software development, FOSS, machine learning, optimization and statistics. I’m enthusiastic to work on both research and non-research oriented problems and find efficient answers to them. I can also communicate research effectively, as proven by my several research articles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
