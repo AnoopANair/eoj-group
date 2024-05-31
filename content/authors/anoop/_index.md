@@ -14,32 +14,32 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate student in Chemistry
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Iceland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include QM.MM, SCME, applied statistics, machine learning and DFT.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Mechanics/ Molecular Mechanics (QM/MM) method development.
+  - Single Center Multipole Expansion (SCME) formalism
+  - Applied Statistics for quantum intermittency
+  - Applied machine learning
+  - Density Functional Theory (DFT)simulations
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: University of Iceland.
+      year: 2021-2026
+    - course: Integrated MSc (5 year BS-MS) in Physics.
+      institution: Indian Institute of Science Education and Research (IISER-TVM)
+      year: 2021
+   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,13 +51,16 @@ social:
     link: 'mailto:mailanoopanair@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AN00PANAIR
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.is/citations?user=_TMEJ60AAAAJ&hl=en#d=gsc_md_pro-d&t=1656456779647&u=%23t%3Dgsc_md_pro_ed
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://gitlab.com/AnoopANair
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anoopanair/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +75,5 @@ email: ''
 user_groups:
   - Grad Students
 ---
-I’m a third-year Ph.D student at the University of Iceland. I have seven years of research, data analysis and programming expertise in the topics of software development, FOSS, machine learning, optimization and statistics. I’m enthusiastic to work on both research and non-research oriented problems and find efficient answers to them. I can also communicate research effectively, as proven by my several research articles.
+Anoop is a third-year Ph.D student at the University of Iceland. I have seven years of research, data analysis and programming expertise in the topics of software development, FOSS, machine learning, optimization and statistics. I’m enthusiastic to work on both research and non-research oriented problems and find efficient answers to them. I can also communicate research effectively, as proven by my several research articles.
 
