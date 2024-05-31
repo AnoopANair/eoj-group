@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: EOJ research group
 date: 2025-10-24
 type: landing
 
