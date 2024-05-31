@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:mailanoopanair@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
