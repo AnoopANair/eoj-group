@@ -3,7 +3,7 @@ title: 'H-MPol: Higher-rank Moments and POLarizabilities'
 date: 2023-06-01
 ---
 
- A code to calculate higher-rank polarizability (up to the quadrupole-quadrupole) and moment (upto the hexadecapole) tensors.
+ A code to calculate higher-rank polarizability  and moment tensors.
 
 <!--more-->
 **Abstract**
