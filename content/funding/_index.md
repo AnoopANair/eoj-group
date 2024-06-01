@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 ---
 
 <!-- <h1 style="text-align: center;"> Funding </h1> -->
@@ -35,10 +35,13 @@ title:
     </style>
 </head>
 
+<div > <b>Grants awarded:</b> </div>
+<hr>
 <a href="https://en.rannis.is/news/allocation-from-the-icelandic-research-fund-for-the-financial-year-2024"> Computer Simulations of Liquid/Solid Interfaces with Applications to Electrochemical Systems</a> <br> 
 2024 - 2027 <br>
 <b>Project Grant, Icelandic Research Fund</b> <br> 
 Elvar Orn Jonsson
+<br>  
 <br>  
 
 
@@ -48,7 +51,8 @@ Computer simulations of the interface between aqueous solution and solid surface
 2023 - 2026 <br>  
 <b>Doctoral student Grant, Eimskip Doctoral Fellowship</b> <br> 
 Anoop Ajaya Kumar Nair <br>     
-<br>
+
+<hr>
 
 
 <body>

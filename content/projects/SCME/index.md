@@ -5,12 +5,24 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+A transferable and efficient polarizable interaction potential for extremely accurate solvent simulations in QM/MM systems.
+
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+**About SCME**
+<div style="text-align: justify"> 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+For a interaction potential function to be transferable, polarizability needs to be included, i.e., the effect of distortions to the electron cloud of the molecules. A systematic way of developing a transferable potential function can be based on a well-defined multipole analysis of electrostatics.
+</div>
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+![scme ccsdt comparison](scme_ccsdt_comp.jpeg "Comparison of CCSD(T) energies of various cluster systems with that obtained via SCME")
+
+<div style="text-align: justify"> 
+In the case of 𝐻<sub>2</sub>𝑂 and 𝐶𝐻<sub>3</sub>𝐶𝑁, the entire electron distribution can be represented approximately by considering the lowest moments up to the hexadecapole. Moreover, including the effects of polarizability through induced moments helps to model the properties of the molecule
+in the presence of an external field. The single-center multipole expansion (SCME) method for describing molecular interactions developed by the EOJ group, evades the use of point charges (which re-
+quires computational demanding Ewald summation to converge) by performing multipole analysis on the molecule as a whole, rather than including a separate multipole expansion for each atom. The group has pioneered the method and developed transferable SCME potentials for modeling pure water(SCME-𝐻<sub>2</sub>𝑂) and pure acetonitrile (SCME-𝐶𝐻<sub>3</sub>𝐶𝑁).
+
+</div>
+
+For more information visit the [SCME](https://anoopanair.gitlab.io/scme-docs/) documentation.
