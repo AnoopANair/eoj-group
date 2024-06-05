@@ -26,4 +26,4 @@ Moment and polarizability tensors serve as compressed representations of the ele
 
 
 
-[HMPOL](https://gitlab.com/AnoopANair/the-hmpol-project) link to the code.
+[HMPOL](https://anoopanair.gitlab.io/hmpol-docs/index.html) link to the code.
