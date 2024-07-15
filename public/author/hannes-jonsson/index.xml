@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannes Jónsson | EOJ Research Group</title>
+    <link>http://localhost:52920/author/hannes-jonsson/</link>
+      <atom:link href="http://localhost:52920/author/hannes-jonsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannes Jónsson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hannes Jónsson</title>
+      <link>http://localhost:52920/author/hannes-jonsson/</link>
+    </image>
+    
+    <item>
+      <title>Single-Atom Substituents in Copper Surfaces May Adsorb Multiple CO Molecules</title>
+      <link>http://localhost:52920/content/publication/Christiansen:2024aa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Christiansen:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of Sharp Transitions between Octahedral and Capped Trigonal Prism States of the Solvation Shell of the Aqueous Fe3&#43; Ion</title>
+      <link>http://localhost:52920/content/publication/Goswami:2024aa/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Goswami:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Challenge of Obtaining an Accurate Solvation Energy Estimate in Simulations of Electrocatalysis</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2023aa/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2023aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Insights into the Volume Isotope Effect of Ice Ih from Polarizable Many-Body Potentials</title>
+      <link>http://localhost:52920/content/publication/Rasti:2022aa/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Rasti:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferable Potential Function for Flexible H2O Molecules Based on the Single-Center Multipole Expansion</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2022aa/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Force Field for Acetonitrile Based on the Single-Center Multipole Expansion</title>
+      <link>http://localhost:52920/content/publication/Myneni:2022aa/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Myneni:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting</title>
+      <link>http://localhost:52920/content/publication/Schmerwitz:2022aa/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Schmerwitz:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Collision Based Dynamic Partitioning Scheme for Hybrid Simulations.</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2021aa/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for Calculating Excited Electronic States Using Density Functionals and Direct Orbital Optimization with Real Space Grid or Plane-Wave Basis Set</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021ac/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mn Dimer Can Be Described Accurately with Density Functional Calculations When Self-Interaction Correction Is Applied</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021aa/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function II: Application to (H2O)n Clusters and Liquid Water</title>
+      <link>http://localhost:52920/content/publication/Dohn:2019aa/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and Applications of Generalized Pipek--Mezey Wannier Functions</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2017aa/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2017aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Complex-Valued Optimal Orbitals on Atomization Energies with the Perdew-Zunger Self-Interaction Correction to Density Functional Theory.</title>
+      <link>http://localhost:52920/content/publication/Lehtola:2016aa/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Lehtola:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charge localization in a diamine cation provides a test of energy functionals and self-interaction correction</title>
+      <link>http://localhost:52920/content/publication/Cheng:2016aa/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Cheng:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function I: Formulation and Tests on Dimer</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2019aa/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Optimal Gradient-dependent Energy Functional of the PZ-SIC Form</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2015aa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2015aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

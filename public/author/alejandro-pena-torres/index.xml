@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro Peña-Torres | EOJ Research Group</title>
+    <link>http://localhost:52920/author/alejandro-pena-torres/</link>
+      <atom:link href="http://localhost:52920/author/alejandro-pena-torres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro Peña-Torres</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Alejandro Peña-Torres</title>
+      <link>http://localhost:52920/author/alejandro-pena-torres/</link>
+    </image>
+    
+    <item>
+      <title>Single-Atom Substituents in Copper Surfaces May Adsorb Multiple CO Molecules</title>
+      <link>http://localhost:52920/content/publication/Christiansen:2024aa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Christiansen:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of Sharp Transitions between Octahedral and Capped Trigonal Prism States of the Solvation Shell of the Aqueous Fe3&#43; Ion</title>
+      <link>http://localhost:52920/content/publication/Goswami:2024aa/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Goswami:2024aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

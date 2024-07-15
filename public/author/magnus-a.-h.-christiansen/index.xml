@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnus A. H. Christiansen | EOJ Research Group</title>
+    <link>http://localhost:52920/author/magnus-a.-h.-christiansen/</link>
+      <atom:link href="http://localhost:52920/author/magnus-a.-h.-christiansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magnus A. H. Christiansen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Magnus A. H. Christiansen</title>
+      <link>http://localhost:52920/author/magnus-a.-h.-christiansen/</link>
+    </image>
+    
+    <item>
+      <title>Single-Atom Substituents in Copper Surfaces May Adsorb Multiple CO Molecules</title>
+      <link>http://localhost:52920/content/publication/Christiansen:2024aa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Christiansen:2024aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

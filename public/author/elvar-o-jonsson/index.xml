@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elvar Ö Jónsson | EOJ Research Group</title>
+    <link>http://localhost:52920/author/elvar-o-jonsson/</link>
+      <atom:link href="http://localhost:52920/author/elvar-o-jonsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elvar Ö Jónsson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Elvar Ö Jónsson</title>
+      <link>http://localhost:52920/author/elvar-o-jonsson/</link>
+    </image>
+    
+    <item>
+      <title>Effect of Complex-Valued Optimal Orbitals on Atomization Energies with the Perdew-Zunger Self-Interaction Correction to Density Functional Theory.</title>
+      <link>http://localhost:52920/content/publication/Lehtola:2016aa/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Lehtola:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculations of Al dopant in α-quartz using a variational implementation of the Perdew--Zunger self-interaction correction</title>
+      <link>http://localhost:52920/content/publication/Gudmundsdottir:2015aa/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Gudmundsdottir:2015aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

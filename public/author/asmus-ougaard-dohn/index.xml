@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asmus Ougaard Dohn | EOJ Research Group</title>
+    <link>http://localhost:52920/author/asmus-ougaard-dohn/</link>
+      <atom:link href="http://localhost:52920/author/asmus-ougaard-dohn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asmus Ougaard Dohn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Asmus Ougaard Dohn</title>
+      <link>http://localhost:52920/author/asmus-ougaard-dohn/</link>
+    </image>
+    
+    <item>
+      <title>Elastic Collision Based Dynamic Partitioning Scheme for Hybrid Simulations.</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2021aa/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function II: Application to (H2O)n Clusters and Liquid Water</title>
+      <link>http://localhost:52920/content/publication/Dohn:2019aa/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function I: Formulation and Tests on Dimer</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2019aa/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Dynamics Studies of a Binuclear Metal Complex in Solution: The Interplay Between Vibrational Relaxation, Coherence, and Solvent Effects</title>
+      <link>http://localhost:52920/content/publication/Dohn:2014aa/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2014aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gianluca Levi | EOJ Research Group</title>
+    <link>http://localhost:52920/author/gianluca-levi/</link>
+      <atom:link href="http://localhost:52920/author/gianluca-levi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gianluca Levi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Gianluca Levi</title>
+      <link>http://localhost:52920/author/gianluca-levi/</link>
+    </image>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting</title>
+      <link>http://localhost:52920/content/publication/Schmerwitz:2022aa/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Schmerwitz:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for Calculating Excited Electronic States Using Density Functionals and Direct Orbital Optimization with Real Space Grid or Plane-Wave Basis Set</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021ac/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021ac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

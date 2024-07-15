@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elvar Ö. Jónsson | EOJ Research Group</title>
+    <link>http://localhost:52920/author/elvar-o.-jonsson/</link>
+      <atom:link href="http://localhost:52920/author/elvar-o.-jonsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elvar Ö. Jónsson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Elvar Ö. Jónsson</title>
+      <link>http://localhost:52920/author/elvar-o.-jonsson/</link>
+    </image>
+    
+    <item>
+      <title>Single-Atom Substituents in Copper Surfaces May Adsorb Multiple CO Molecules</title>
+      <link>http://localhost:52920/content/publication/Christiansen:2024aa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Christiansen:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of Sharp Transitions between Octahedral and Capped Trigonal Prism States of the Solvation Shell of the Aqueous Fe3&#43; Ion</title>
+      <link>http://localhost:52920/content/publication/Goswami:2024aa/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Goswami:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Challenge of Obtaining an Accurate Solvation Energy Estimate in Simulations of Electrocatalysis</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2023aa/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2023aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting</title>
+      <link>http://localhost:52920/content/publication/Schmerwitz:2022aa/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Schmerwitz:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for Calculating Excited Electronic States Using Density Functionals and Direct Orbital Optimization with Real Space Grid or Plane-Wave Basis Set</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021ac/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mn Dimer Can Be Described Accurately with Density Functional Calculations When Self-Interaction Correction Is Applied</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021aa/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and Applications of Generalized Pipek--Mezey Wannier Functions</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2017aa/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2017aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Constrained DFT for Computing Charge Transfer Rates within the Projector Augmented Wave Method</title>
+      <link>http://localhost:52920/content/publication/Melander:2016aa/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Melander:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance of the Reorganization Energy Barrier in Computational Design of Porphyrin-Based Solar Cells with Cobalt-Based Redox Mediators</title>
+      <link>http://localhost:52920/content/publication/Ornso:2015aa/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ornso:2015aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

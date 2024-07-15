@@ -2,66 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | EOJ Research Group</title>
-    <link>http://localhost:54073/publication/</link>
-      <atom:link href="http://localhost:54073/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:52920/publication/</link>
+      <atom:link href="http://localhost:52920/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54073/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:54073/publication/</link>
+      <link>http://localhost:52920/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:54073/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Single-Atom Substituents in Copper Surfaces May Adsorb Multiple CO Molecules</title>
+      <link>http://localhost:52920/content/publication/Christiansen:2024aa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Christiansen:2024aa/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:54073/publication/journal-article/</link>
+      <title>Evidence of Sharp Transitions between Octahedral and Capped Trigonal Prism States of the Solvation Shell of the Aqueous Fe3&#43; Ion</title>
+      <link>http://localhost:52920/content/publication/Goswami:2024aa/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Goswami:2024aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPAW: An open Python package for electronic structure calculations</title>
+      <link>http://localhost:52920/content/publication/gpaw2024/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/gpaw2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Challenge of Obtaining an Accurate Solvation Energy Estimate in Simulations of Electrocatalysis</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2023aa/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2023aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Insights into the Volume Isotope Effect of Ice Ih from Polarizable Many-Body Potentials</title>
+      <link>http://localhost:52920/content/publication/Rasti:2022aa/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Rasti:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferable Potential Function for Flexible H2O Molecules Based on the Single-Center Multipole Expansion</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2022aa/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Force Field for Acetonitrile Based on the Single-Center Multipole Expansion</title>
+      <link>http://localhost:52920/content/publication/Myneni:2022aa/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Myneni:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting</title>
+      <link>http://localhost:52920/content/publication/Schmerwitz:2022aa/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Schmerwitz:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct energy minimization based on exponential transformation in density functional calculations of finite and extended systems</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021ab/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Collision Based Dynamic Partitioning Scheme for Hybrid Simulations.</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2021aa/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for Calculating Excited Electronic States Using Density Functionals and Direct Orbital Optimization with Real Space Grid or Plane-Wave Basis Set</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021ac/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mn Dimer Can Be Described Accurately with Density Functional Calculations When Self-Interaction Correction Is Applied</title>
+      <link>http://localhost:52920/content/publication/Ivanov:2021aa/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ivanov:2021aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function II: Application to (H2O)n Clusters and Liquid Water</title>
+      <link>http://localhost:52920/content/publication/Dohn:2019aa/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Transport Properties of Carbon-Nanotube Networks: The Effect of Nitrate Doping on Intratube and Intertube Conductances</title>
+      <link>http://localhost:52920/content/publication/Ketolainen2018/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ketolainen2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First-principles Green&#39;s-function method for surface calculations: A pseudopotential localized basis set approach</title>
+      <link>http://localhost:52920/content/publication/Simdstrup2017/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Simdstrup2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-Based Projector Augmented Wave (GPAW) Implementation of Quantum Mechanics/Molecular Mechanics (QM/MM) Electrostatic Embedding and Application to a Solvated Diplatinum Complex</title>
+      <link>http://localhost:52920/content/publication/Dohn:2017aa/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2017aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and Applications of Generalized Pipek--Mezey Wannier Functions</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2017aa/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2017aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Constrained DFT for Computing Charge Transfer Rates within the Projector Augmented Wave Method</title>
+      <link>http://localhost:52920/content/publication/Melander:2016aa/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Melander:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Complex-Valued Optimal Orbitals on Atomization Energies with the Perdew-Zunger Self-Interaction Correction to Density Functional Theory.</title>
+      <link>http://localhost:52920/content/publication/Lehtola:2016aa/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Lehtola:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charge localization in a diamine cation provides a test of energy functionals and self-interaction correction</title>
+      <link>http://localhost:52920/content/publication/Cheng:2016aa/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Cheng:2016aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarizable Embedding with a Transferable H2O Potential Function I: Formulation and Tests on Dimer</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2019aa/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2019aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The diamine cation is not a chemical example where density functional theory fails</title>
+      <link>http://localhost:52920/content/publication/Ali:2018aa/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:52920/content/publication/Ali:2018aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculations of Al dopant in α-quartz using a variational implementation of the Perdew--Zunger self-interaction correction</title>
+      <link>http://localhost:52920/content/publication/Gudmundsdottir:2015aa/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Gudmundsdottir:2015aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance of the Reorganization Energy Barrier in Computational Design of Porphyrin-Based Solar Cells with Cobalt-Based Redox Mediators</title>
+      <link>http://localhost:52920/content/publication/Ornso:2015aa/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Ornso:2015aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Optimal Gradient-dependent Energy Functional of the PZ-SIC Form</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2015aa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2015aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Dynamics Studies of a Binuclear Metal Complex in Solution: The Interplay Between Vibrational Relaxation, Coherence, and Solvent Effects</title>
+      <link>http://localhost:52920/content/publication/Dohn:2014aa/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Dohn:2014aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct measurement and modulation of single-molecule coordinative bonding forces in a transition metal complex</title>
+      <link>http://localhost:52920/content/publication/Hao:2013aa/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Hao:2013aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ab Initio Calculations of the Electronic Properties of Polypyridine Transition Metal Complexes and Their Adsorption on Metal Surfaces in the Presence of Solvent and Counterions</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2011aa/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2011aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folding of the cocaine aptamer studied by EPR and fluorescence spectroscopies using the bifunctional spectroscopic probe Ç</title>
+      <link>http://localhost:52920/content/publication/ekan2009FoldingOT/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/ekan2009FoldingOT/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:52920/publication/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/publication/readme/</guid>
+      <description>&lt;h1 id=&#34;bibparse&#34;&gt;bibparse&lt;/h1&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;To make it easy for you to get started with GitLab, here&amp;rsquo;s a list of recommended next steps.&lt;/p&gt;
+&lt;p&gt;Already a pro? Just edit this README.md and make it your own. Want to make it easy? &lt;a href=&#34;#editing-this-readme&#34;&gt;Use the template at the bottom&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;add-your-files&#34;&gt;Add your files&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create&lt;/a&gt; or &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;upload&lt;/a&gt; files&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Add files using the command line&lt;/a&gt; or push an existing Git repository with the following command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd existing_repo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://gitlab.com/AnoopANair/bibparse.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -uf origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;integrate-with-your-tools&#34;&gt;Integrate with your tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://gitlab.com/AnoopANair/bibparse/-/settings/integrations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Set up project integrations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborate-with-your-team&#34;&gt;Collaborate with your team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/members/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Invite team members and collaborators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create a new merge request&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatically close issues from merge requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/merge_requests/approvals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enable merge request approvals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Set auto-merge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;test-and-deploy&#34;&gt;Test and Deploy&lt;/h2&gt;
+&lt;p&gt;Use the built-in continuous integration in GitLab.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/ci/quick_start/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get started with GitLab CI/CD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/application_security/sast/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/topics/autodevops/requirements.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/user/clusters/agent/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Use pull-based deployments for improved Kubernetes management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://docs.gitlab.com/ee/ci/environments/protected_environments.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Set up protected environments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;editing-this-readme&#34;&gt;Editing this README&lt;/h1&gt;
+&lt;p&gt;When you&amp;rsquo;re ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to &lt;a href=&#34;https://www.makeareadme.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;makeareadme.com&lt;/a&gt; for this template.&lt;/p&gt;
+&lt;h2 id=&#34;suggestions-for-a-good-readme&#34;&gt;Suggestions for a good README&lt;/h2&gt;
+&lt;p&gt;Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.&lt;/p&gt;
+&lt;h2 id=&#34;name&#34;&gt;Name&lt;/h2&gt;
+&lt;p&gt;Choose a self-explaining name for your project.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.&lt;/p&gt;
+&lt;h2 id=&#34;badges&#34;&gt;Badges&lt;/h2&gt;
+&lt;p&gt;On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.&lt;/p&gt;
+&lt;h2 id=&#34;visuals&#34;&gt;Visuals&lt;/h2&gt;
+&lt;p&gt;Depending on what you are making, it can be a good idea to include screenshots or even a video (you&amp;rsquo;ll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;Use examples liberally, and show the expected output if you can. It&amp;rsquo;s helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.&lt;/p&gt;
+&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;
+&lt;p&gt;Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.&lt;/p&gt;
+&lt;h2 id=&#34;roadmap&#34;&gt;Roadmap&lt;/h2&gt;
+&lt;p&gt;If you have ideas for releases in the future, it is a good idea to list them in the README.&lt;/p&gt;
+&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;State if you are open to contributions and what your requirements are for accepting them.&lt;/p&gt;
+&lt;p&gt;For people who want to make changes to your project, it&amp;rsquo;s helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.&lt;/p&gt;
+&lt;p&gt;You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.&lt;/p&gt;
+&lt;h2 id=&#34;authors-and-acknowledgment&#34;&gt;Authors and acknowledgment&lt;/h2&gt;
+&lt;p&gt;Show your appreciation to those who have contributed to the project.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;For open source projects, say how it is licensed.&lt;/p&gt;
+&lt;h2 id=&#34;project-status&#34;&gt;Project status&lt;/h2&gt;
+&lt;p&gt;If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:54073/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>http://localhost:52920/publication/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/publication/references/</guid>
+      <description></description>
     </item>
     
   </channel>

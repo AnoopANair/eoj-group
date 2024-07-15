@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaappa Sami | EOJ Research Group</title>
+    <link>http://localhost:52920/author/kaappa-sami/</link>
+      <atom:link href="http://localhost:52920/author/kaappa-sami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaappa Sami</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kaappa Sami</title>
+      <link>http://localhost:52920/author/kaappa-sami/</link>
+    </image>
+    
+    <item>
+      <title>GPAW: An open Python package for electronic structure calculations</title>
+      <link>http://localhost:52920/content/publication/gpaw2024/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/gpaw2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

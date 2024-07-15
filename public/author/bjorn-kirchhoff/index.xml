@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Kirchhoff | EOJ Research Group</title>
+    <link>http://localhost:52920/author/bjorn-kirchhoff/</link>
+      <atom:link href="http://localhost:52920/author/bjorn-kirchhoff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Kirchhoff</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Björn Kirchhoff</title>
+      <link>http://localhost:52920/author/bjorn-kirchhoff/</link>
+    </image>
+    
+    <item>
+      <title>On the Challenge of Obtaining an Accurate Solvation Energy Estimate in Simulations of Electrocatalysis</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2023aa/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2023aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Collision Based Dynamic Partitioning Scheme for Hybrid Simulations.</title>
+      <link>http://localhost:52920/content/publication/Kirchhoff:2021aa/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Kirchhoff:2021aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

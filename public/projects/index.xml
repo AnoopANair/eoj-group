@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | EOJ Research Group</title>
-    <link>http://localhost:54073/projects/</link>
-      <atom:link href="http://localhost:54073/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:52920/projects/</link>
+      <atom:link href="http://localhost:52920/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54073/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:54073/projects/</link>
+      <link>http://localhost:52920/projects/</link>
     </image>
     
     <item>
       <title>PE-QMMM-PBC: Polerizable embedding for systems with periodic boundaries</title>
-      <link>http://localhost:54073/projects/qmmm/</link>
+      <link>http://localhost:52920/projects/qmmm/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/projects/qmmm/</guid>
+      <guid>http://localhost:52920/projects/qmmm/</guid>
       <description>&lt;p&gt;A hybrid simulation method coupling a polarizable force field and density functional theory.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt; 
@@ -31,9 +31,9 @@
     
     <item>
       <title>H-MPol: Higher-rank Moments and POLarizabilities</title>
-      <link>http://localhost:54073/projects/hmpol/</link>
+      <link>http://localhost:52920/projects/hmpol/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/projects/hmpol/</guid>
+      <guid>http://localhost:52920/projects/hmpol/</guid>
       <description>&lt;p&gt;A code to calculate higher-rank polarizability  and moment tensors.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt; 
@@ -63,9 +63,9 @@ Moment and polarizability tensors serve as compressed representations of the ele
     
     <item>
       <title>SCME: Single Center Multipole Expansion</title>
-      <link>http://localhost:54073/projects/scme/</link>
+      <link>http://localhost:52920/projects/scme/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54073/projects/scme/</guid>
+      <guid>http://localhost:52920/projects/scme/</guid>
       <description>&lt;p&gt;A transferable and efficient polarizable interaction potential for extremely accurate solvent simulations in QM/MM systems.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;About SCME&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt; 
@@ -93,7 +93,7 @@ Moment and polarizability tensors serve as compressed representations of the ele
                /projects/scme/scme_ccsdt_comp_hub1383ce5bc20f0d30eed6276afde19f9_85104_850291e1a6f4bcc973d4f1b974dd6cd3.webp 400w,
                /projects/scme/scme_ccsdt_comp_hub1383ce5bc20f0d30eed6276afde19f9_85104_fe10ac6a5cf3adb7755f368ca08ca435.webp 760w,
                /projects/scme/scme_ccsdt_comp_hub1383ce5bc20f0d30eed6276afde19f9_85104_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:54073/projects/scme/scme_ccsdt_comp_hub1383ce5bc20f0d30eed6276afde19f9_85104_850291e1a6f4bcc973d4f1b974dd6cd3.webp&#34;
+               src=&#34;http://localhost:52920/projects/scme/scme_ccsdt_comp_hub1383ce5bc20f0d30eed6276afde19f9_85104_850291e1a6f4bcc973d4f1b974dd6cd3.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

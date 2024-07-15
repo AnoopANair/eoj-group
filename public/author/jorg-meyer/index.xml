@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jörg Meyer | EOJ Research Group</title>
+    <link>http://localhost:52920/author/jorg-meyer/</link>
+      <atom:link href="http://localhost:52920/author/jorg-meyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jörg Meyer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jörg Meyer</title>
+      <link>http://localhost:52920/author/jorg-meyer/</link>
+    </image>
+    
+    <item>
+      <title>New Insights into the Volume Isotope Effect of Ice Ih from Polarizable Many-Body Potentials</title>
+      <link>http://localhost:52920/content/publication/Rasti:2022aa/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Rasti:2022aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferable Potential Function for Flexible H2O Molecules Based on the Single-Center Multipole Expansion</title>
+      <link>http://localhost:52920/content/publication/Jonsson:2022aa/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Jonsson:2022aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

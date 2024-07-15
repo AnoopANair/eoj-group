@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yao Zhang | EOJ Research Group</title>
+    <link>http://localhost:52920/author/yao-zhang/</link>
+      <atom:link href="http://localhost:52920/author/yao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yao Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:52920/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yao Zhang</title>
+      <link>http://localhost:52920/author/yao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Charge localization in a diamine cation provides a test of energy functionals and self-interaction correction</title>
+      <link>http://localhost:52920/content/publication/Cheng:2016aa/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52920/content/publication/Cheng:2016aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
